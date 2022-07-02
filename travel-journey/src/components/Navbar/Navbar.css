@@ -1,0 +1,12 @@
+.nav {
+  background-color: #f55a5a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.nav span {
+  color: #fff;
+  padding-left: 10px;
+}

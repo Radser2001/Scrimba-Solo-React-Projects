@@ -1,0 +1,44 @@
+a {
+  color: inherit;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 50px;
+}
+
+.card h1 h4 {
+  color: #2b283a;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.card p {
+  color: #2b283a;
+  line-height: 20px;
+}
+
+.card-img {
+  margin-right: 20px;
+  max-width: 100%;
+}
+
+.card-info-link {
+  color: #918e9b;
+}
+
+.card-info {
+  display: flex;
+  align-items: center;
+}
+
+.card-info span {
+  margin: 10px;
+}
+
+.card-info-country {
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
